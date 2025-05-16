@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @p-e-koko
-- 🌱 I’m currently learning JavsScript
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me "panneikoko1221@gmail.com
 
 <!---
