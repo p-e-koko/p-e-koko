@@ -1,8 +1,39 @@
-- 👋 Hi, I’m @p-e-koko
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me "panneikoko1221@gmail.com
+# Hi, I'm Pann 👋
 
-<!---
-p-e-koko/p-e-koko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Senior Information Technology Student at Asia-Pacific International University (AIU)
+💻 Interested in Web Development, Mobile Development, and Software Engineering.
+🚀 Currently working on personal and academic projects and looking for opportunities to gain more real-world experience through freelance and collaborative projects.
+
+## Skills
+
+* JavaScript
+* React
+* Node.js
+* MySQL
+* PostgreSQL
+* HTML & CSS
+* PHP
+* Laravel
+* Java
+* Python
+
+## Currently Learning
+
+* Full-Stack Development
+* Software Architecture
+* Modern Web Technologies
+
+## Open to
+
+* Freelance Projects
+* Open Source Contributions
+* Collaboration Opportunities
+
+## Contact
+
+📧 Email: [pekkodev@gmail.com](mailto:pekkodev@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+
+📫 Feel free to connect and collaborate!
+
